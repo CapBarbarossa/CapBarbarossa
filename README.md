@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @CapBarbarossa aka The Pirate King, aka MGK
-- 👀 I’m interested in all interesting things, if it's a challenge, bring it.
-- 🌱 I’m currently learning Back-end Web Development & Cross platform mobile app development through flutter.
+- 👋 Hi, I’m Mohamed G. Abdulkarim, Software Engineer by Day, Gamer by.. Later that day.
+- 👀 I’m interested in Tech, Entertainment and Existential Questions, more importantly, I ❤ a good Challenge
+- 🌱 I’m a Back-end Web Developer & Cross platform mobile app developer using Flutter.
 - 📫 How to reach me:
-   - Email - mohammed.g.abdulkarim@outlook.com
-   - Facebook - facebook.com/4CapBarbarossa
+   - Email - info@mohamedabdulkarim.com
+   - WhatsApp - +201553664023
    - Twitter - twitter.com/_CapBarbarossa
-   - instagram - instagram.com/_capbarbarossa/
 
 <!---
 CapBarbarossa/CapBarbarossa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
