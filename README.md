@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech, Entertainment and Existential Questions, more importantly, I ❤ a good Challenge
 - 🌱 I’m a Back-end Web Developer & Cross platform mobile developer using Flutter.
 - 📫 How to reach me:
-   - Email - info@mohamedabdulkarim.com
+   - Email - mohammed.g.abdulkarim@outlook.com  
    - WhatsApp - +201553664023
    - Twitter - twitter.com/_CapBarbarossa
 
